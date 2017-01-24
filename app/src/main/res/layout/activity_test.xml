@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    android:background="#CDF0"
+    tools:context="app.eagle_eye.vocabularybuilderapp.TestActivity">
+
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="app.eagle_eye.vocabularybuilderapp.BlankFragment"
+        android:id="@+id/fragment" />
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:name="app.eagle_eye.vocabularybuilderapp.ViewPagerFragment"
+        android:id="@+id/fragment2" />
+
+</LinearLayout>

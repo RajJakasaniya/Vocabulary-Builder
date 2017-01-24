@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "107140290697",
+    "firebase_url": "https://vocab-ee7b1.firebaseio.com",
+    "project_id": "vocab-ee7b1",
+    "storage_bucket": "vocab-ee7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107140290697:android:2dd3d4718bc1d8ac",
+        "android_client_info": {
+          "package_name": "app.eagle_eye.vocabularybuilderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107140290697-q6tv54musv8f11kg9nqqtge0iqn5i3g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBLvYi7XWFIHrB6A-TIlKi9W2Z5hYjrqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
